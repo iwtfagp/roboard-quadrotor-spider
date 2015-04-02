@@ -1,0 +1,2 @@
+<a href='http://www.youtube.com/watch?feature=player_embedded&v=u8GVTjuA4qM' target='_blank'><img src='http://img.youtube.com/vi/u8GVTjuA4qM/0.jpg' width='425' height=344 /></a>
+雖然最後在某個意義上面已經不算是四足蜘蛛了，但是標題同時也記錄著機器人在製作過程中不斷被修改著，因此標題並不打算改變，同時維持著這十篇一模一樣的主標題，並且在自己心中記錄著這樣製作機器人的體驗。
